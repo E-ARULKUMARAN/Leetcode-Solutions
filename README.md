@@ -28,5 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
