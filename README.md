@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0724-find-pivot-index](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
@@ -42,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
