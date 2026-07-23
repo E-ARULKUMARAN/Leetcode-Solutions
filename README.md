@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
