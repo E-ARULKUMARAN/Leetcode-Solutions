@@ -8,9 +8,9 @@ class Solution {
             else
             st.push(s.charAt(i));
         }
-        StringBuilder sb=new StringBuilder();
+        String res="";
         while(!st.isEmpty())
-        sb.insert(0,st.pop());
-        return sb.toString();
+        res=st.pop()+res;
+        return res;
     }
 }
