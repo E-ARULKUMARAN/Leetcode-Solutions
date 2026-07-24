@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [2427-number-of-common-factors](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -91,4 +92,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0367-valid-perfect-square](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
