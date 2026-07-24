@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0162-find-peak-element](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0162-find-peak-element](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
