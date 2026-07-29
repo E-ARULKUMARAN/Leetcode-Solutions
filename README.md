@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2427-number-of-common-factors](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Enumeration
@@ -129,5 +130,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0476-number-complement](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0476-number-complement/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 <!---LeetCode Topics End-->
