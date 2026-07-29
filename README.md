@@ -124,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0476-number-complement](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0476-number-complement/) | Easy |
 <!---LeetCode Topics End-->
