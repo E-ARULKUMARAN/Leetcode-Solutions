@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
