@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
