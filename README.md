@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
