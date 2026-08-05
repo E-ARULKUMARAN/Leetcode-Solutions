@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
