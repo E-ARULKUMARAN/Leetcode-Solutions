@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
