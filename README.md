@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
