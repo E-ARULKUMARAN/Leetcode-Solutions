@@ -12,11 +12,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [2427-number-of-common-factors](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
