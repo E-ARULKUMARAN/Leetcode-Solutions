@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0844-backspace-string-compare](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
