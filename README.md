@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## String
 | Problem Name | Difficulty |
