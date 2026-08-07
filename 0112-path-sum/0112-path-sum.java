@@ -15,28 +15,22 @@
  */
 class Solution {
     List<Integer> l = new ArrayList<>();
-
-    int sum(List<Integer> l) {
-        int sum = 0;
-        for (int x : l) {
-            sum += x;
-        }
-        return sum;
-    }
-
     boolean flag = false;
+    int sum = 0;
 
     void check(TreeNode root, int target) {
         if (root == null) {
             return;
         }
         l.add(root.val);
+        sum += root.val;
         check(root.left, target);
-        if ((root.left == null && root.right == null) && sum(l) == target) {
+        if ((root.left == null && root.right == null) && sum == target) {
             flag = true;
             return;
         }
         check(root.right, target);
+        sum -= l.get(l.size() - 1);
         l.remove(l.size() - 1);
     }
 
