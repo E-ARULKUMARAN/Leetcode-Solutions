@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0476-number-complement](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0476-number-complement/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
