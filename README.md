@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-binary-prefix-divisible-by-5](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
