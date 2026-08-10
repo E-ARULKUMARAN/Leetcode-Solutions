@@ -6,6 +6,6 @@ class Solution {
             t>>=1;
         }
         dummy--;
-        return dummy | n;
+        return dummy;
     }
 }
