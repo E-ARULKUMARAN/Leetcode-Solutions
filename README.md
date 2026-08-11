@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -173,10 +176,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -352,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,4 +370,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
