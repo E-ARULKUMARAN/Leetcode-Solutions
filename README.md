@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
