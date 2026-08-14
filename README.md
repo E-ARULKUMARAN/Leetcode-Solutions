@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Tree
