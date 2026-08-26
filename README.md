@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
@@ -444,10 +447,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
