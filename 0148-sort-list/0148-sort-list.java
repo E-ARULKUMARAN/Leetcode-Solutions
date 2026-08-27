@@ -9,22 +9,61 @@
  * }
  */
 class Solution {
-    // Normal approach
-    public ListNode sortList(ListNode head) {
-        List<Integer> l=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            l.add(temp.val);
-            temp=temp.next;
+    // Merge sort
+    ListNode merge(ListNode left, ListNode right) {
+        if (left == null) {
+            return right;
         }
-        Collections.sort(l);
-        temp=head;
-        int i=0;
-        while(temp!=null){
-            temp.val=l.get(i);
-            temp=temp.next;
-            i++;
+        if (right == null) {
+            return left;
+        }
+        ListNode head = null;
+        if (left.val < right.val) {
+            head = left;
+            left = left.next;
+        } else {
+            head = right;
+            right = right.next;
+        }
+        ListNode temp = head;
+        while (right != null && left != null) {
+            if (left.val < right.val) {
+                temp.next = left;
+                left = left.next;
+            } else {
+                temp.next = right;
+                right = right.next;
+            }
+            temp = temp.next;
+        }
+        if (left != null) {
+            temp.next = left;
+        }
+        if (right != null) {
+            temp.next = right;
         }
         return head;
+    }
+
+    ListNode middle(ListNode head) {
+        ListNode slow = head, fast = head.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode mid = middle(head);
+        ListNode left = head;
+        ListNode right = mid.next;
+        mid.next = null;
+        left = sortList(left);
+        right = sortList(right);
+        return merge(left, right);
     }
 }
