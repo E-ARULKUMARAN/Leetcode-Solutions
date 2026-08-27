@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0086-partition-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
@@ -434,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
