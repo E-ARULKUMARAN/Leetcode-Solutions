@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -490,4 +492,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
