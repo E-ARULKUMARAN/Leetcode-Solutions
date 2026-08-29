@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2427-number-of-common-factors](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
