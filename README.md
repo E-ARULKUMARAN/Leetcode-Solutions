@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
