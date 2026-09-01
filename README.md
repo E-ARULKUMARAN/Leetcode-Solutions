@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0733-flood-fill](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
