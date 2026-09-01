@@ -13,6 +13,7 @@ class Solution {
                 if((rr>=0 && rc>=0) && (rr<n && rc<m) && grid[rr][rc]==v[2]+1){
                     q.offer(new int[]{rr,rc,grid[rr][rc]});
                     k++;
+                    break;
                 }
             }
         }
