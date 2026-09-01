@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0733-flood-fill](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Design
