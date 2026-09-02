@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-univalued-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0733-flood-fill](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Design
@@ -526,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Graph Theory
