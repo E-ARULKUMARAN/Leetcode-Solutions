@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
