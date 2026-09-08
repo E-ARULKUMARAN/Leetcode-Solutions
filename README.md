@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
+| [0191-number-of-1-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0476-number-complement](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
