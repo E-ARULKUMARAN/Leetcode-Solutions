@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0148-sort-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0089-gray-code](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0113-path-sum-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Bucket Sort
