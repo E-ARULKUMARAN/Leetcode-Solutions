@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0086-partition-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
