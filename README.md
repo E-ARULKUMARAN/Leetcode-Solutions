@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
