@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -575,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
