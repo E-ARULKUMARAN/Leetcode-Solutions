@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Binary Search
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
