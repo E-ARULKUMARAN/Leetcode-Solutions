@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
