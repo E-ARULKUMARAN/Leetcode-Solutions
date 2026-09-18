@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0086-partition-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0509-fibonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Merge Sort
