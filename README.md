@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2427-number-of-common-factors](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -683,4 +684,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
