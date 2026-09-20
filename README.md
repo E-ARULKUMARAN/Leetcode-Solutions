@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2717-semi-ordered-permutation](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2717-semi-ordered-permutation/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
