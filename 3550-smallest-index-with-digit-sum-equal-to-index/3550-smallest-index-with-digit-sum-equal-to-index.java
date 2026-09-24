@@ -5,7 +5,6 @@ class Solution {
             res=res+ x%10;
             x/=10;
         }
-        System.out.println(res);
         return res;
     }
     public int smallestIndex(int[] nums) {
