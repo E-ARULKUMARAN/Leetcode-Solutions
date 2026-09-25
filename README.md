@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0263-ugly-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
