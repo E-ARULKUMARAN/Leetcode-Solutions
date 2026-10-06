@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -524,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Divide and Conquer
