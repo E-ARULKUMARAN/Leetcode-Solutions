@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -462,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -496,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -528,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/E-ARULKUMARAN/Leetcode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Divide and Conquer
